@@ -1,1 +1,1 @@
-# DeepseekR1-Rag
+# Gen-AI-With-Deep-Seek-R1
