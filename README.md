@@ -1,6 +1,6 @@
 # DeepseekR1-Rag
 
-**DeepseekR1-Rag** is an intelligent document analysis application built with **Streamlit**, powered by **LangChain**, **Ollama**, and **EasyOCR**. It enables seamless document and image-based question answering using advanced AI models for extracting and processing information.
+**DeepseekR1-Rag** is an Retrieval-Augmented Generation application which analyzes documents. Built with **Streamlit**, powered by **LangChain**, **Ollama**, and **EasyOCR** , It enables seamless document and image-based question answering using advanced AI models for extracting and processing information.
 
 ## 🚀 Features
 
